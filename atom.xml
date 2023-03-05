@@ -173,28 +173,6 @@
   </entry>
   
   <entry>
-    <title>可爱妹子图片</title>
-    <link href="https://luchangjiu.github.io/2022/04/14/other/kawayi-girl-img/"/>
-    <id>https://luchangjiu.github.io/2022/04/14/other/kawayi-girl-img/</id>
-    <published>2022-04-13T16:23:32.000Z</published>
-    <updated>2022-05-04T09:02:46.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="无题"><a href="#无题" class="headerlink" title="无题"></a>无题</h2><p><img src="/images/grils/a.webp" alt="1"><br><img src="/images/grils/b.webp" alt="2"><br><img src="/images/grils/c.webp" alt="3"><br><img src="/images/grils/d.webp" alt="3"><br><img src="/images/grils/e.webp" alt="3"><br><img src="/images/grils/f.webp" alt="3"><br><img src="/images/grils/g.webp" alt="3"></p><p><a href="http://www.qzxiu.net/">千纸壁纸</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;无题&quot;&gt;&lt;a href=&quot;#无题&quot; class=&quot;headerlink&quot; title=&quot;无题&quot;&gt;&lt;/a&gt;无题&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/images/grils/a.webp&quot; alt=&quot;1&quot;&gt;&lt;br&gt;&lt;img src=&quot;/images/grils/b.</summary>
-      
-    
-    
-    
-    
-    <category term="grils" scheme="https://luchangjiu.github.io/tags/grils/"/>
-    
-  </entry>
-  
-  <entry>
     <title>扩展easyui datagrid 编辑网格插件</title>
     <link href="https://luchangjiu.github.io/2022/04/09/easyui/easyui-datagrid-extension-1/"/>
     <id>https://luchangjiu.github.io/2022/04/09/easyui/easyui-datagrid-extension-1/</id>
@@ -280,6 +258,37 @@
     
     
     <category term="redis" scheme="https://luchangjiu.github.io/tags/redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Head First 设计模式</title>
+    <link href="https://luchangjiu.github.io/2021/07/19/java/Head_First_Design_Pattern/"/>
+    <id>https://luchangjiu.github.io/2021/07/19/java/Head_First_Design_Pattern/</id>
+    <published>2021-07-19T14:42:02.000Z</published>
+    <updated>2023-03-05T14:19:42.498Z</updated>
+    
+    <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/Head_First_Design_Pattern.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;embed src=&quot;/pdf/Head_First_Design_Pattern.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;
+	&lt;/div&gt;
+
+
+
+
+</summary>
+      
+    
+    
+    
+    
+    <category term="java" scheme="https://luchangjiu.github.io/tags/java/"/>
     
   </entry>
   
