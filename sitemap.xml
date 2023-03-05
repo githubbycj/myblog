@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://luchangjiu.github.io/2023/03/05/hexo/hello-world/</loc>
+    <loc>https://luchangjiu.github.io/2020/05/30/hexo/delete-hexo-file/</loc>
     
     <lastmod>2022-04-13</lastmod>
     
@@ -164,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://luchangjiu.github.io/2020/05/30/hexo/delete-hexo-file/</loc>
+    <loc>https://luchangjiu.github.io/2023/03/05/hexo/hello-world/</loc>
     
     <lastmod>2022-04-13</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://luchangjiu.github.io/2022/03/22/redis/redis-script-del/</loc>
+    <loc>https://luchangjiu.github.io/2020/06/22/windows/use-putty/</loc>
     
     <lastmod>2022-04-13</lastmod>
     
@@ -218,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://luchangjiu.github.io/2020/06/22/windows/use-putty/</loc>
+    <loc>https://luchangjiu.github.io/2022/03/22/redis/redis-script-del/</loc>
     
     <lastmod>2022-04-13</lastmod>
     
@@ -245,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://luchangjiu.github.io/categories/index.html</loc>
+    <loc>https://luchangjiu.github.io/books/index.html</loc>
     
     <lastmod>2022-04-13</lastmod>
     
@@ -254,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://luchangjiu.github.io/books/index.html</loc>
+    <loc>https://luchangjiu.github.io/categories/index.html</loc>
     
     <lastmod>2022-04-13</lastmod>
     
@@ -299,6 +299,13 @@
 
   
   <url>
+    <loc>https://luchangjiu.github.io/tags/Git/</loc>
+    <lastmod>2023-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://luchangjiu.github.io/tags/C/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -307,13 +314,6 @@
   
   <url>
     <loc>https://luchangjiu.github.io/tags/easyui/</loc>
-    <lastmod>2023-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://luchangjiu.github.io/tags/Git/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -341,6 +341,13 @@
   </url>
   
   <url>
+    <loc>https://luchangjiu.github.io/tags/oracle/</loc>
+    <lastmod>2023-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://luchangjiu.github.io/tags/office/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -348,7 +355,7 @@
   </url>
   
   <url>
-    <loc>https://luchangjiu.github.io/tags/oracle/</loc>
+    <loc>https://luchangjiu.github.io/tags/windows/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -363,13 +370,6 @@
   
   <url>
     <loc>https://luchangjiu.github.io/tags/vim/</loc>
-    <lastmod>2023-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://luchangjiu.github.io/tags/windows/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

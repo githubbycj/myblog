@@ -293,13 +293,13 @@
   </entry>
   
   <entry>
-    <title>vim 实用技巧2</title>
-    <link href="https://luchangjiu.github.io/2021/07/19/vim/vim-skills2/"/>
-    <id>https://luchangjiu.github.io/2021/07/19/vim/vim-skills2/</id>
+    <title>vim 使用技巧</title>
+    <link href="https://luchangjiu.github.io/2021/07/19/vim/vim-skills/"/>
+    <id>https://luchangjiu.github.io/2021/07/19/vim/vim-skills/</id>
     <published>2021-07-19T14:42:02.000Z</published>
-    <updated>2022-05-03T10:52:35.000Z</updated>
+    <updated>2022-05-03T10:52:38.000Z</updated>
     
-    <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/vim-skills2.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/vim-skills.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
     
     
       
@@ -307,7 +307,7 @@
     <summary type="html">
 
 	&lt;div class=&quot;row&quot;&gt;
-    &lt;embed src=&quot;/pdf/vim-skills2.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;
+    &lt;embed src=&quot;/pdf/vim-skills.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;
 	&lt;/div&gt;
 
 
@@ -324,13 +324,13 @@
   </entry>
   
   <entry>
-    <title>vim 使用技巧</title>
-    <link href="https://luchangjiu.github.io/2021/07/19/vim/vim-skills/"/>
-    <id>https://luchangjiu.github.io/2021/07/19/vim/vim-skills/</id>
+    <title>vim 实用技巧2</title>
+    <link href="https://luchangjiu.github.io/2021/07/19/vim/vim-skills2/"/>
+    <id>https://luchangjiu.github.io/2021/07/19/vim/vim-skills2/</id>
     <published>2021-07-19T14:42:02.000Z</published>
-    <updated>2022-05-03T10:52:38.000Z</updated>
+    <updated>2022-05-03T10:52:35.000Z</updated>
     
-    <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/vim-skills.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    <content type="html"><![CDATA[<div class="row">    <embed src="/pdf/vim-skills2.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
     
     
       
@@ -338,7 +338,7 @@
     <summary type="html">
 
 	&lt;div class=&quot;row&quot;&gt;
-    &lt;embed src=&quot;/pdf/vim-skills.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;
+    &lt;embed src=&quot;/pdf/vim-skills2.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;
 	&lt;/div&gt;
 
 
