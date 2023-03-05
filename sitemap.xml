@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://luchangjiu.github.io/2018/03/03/git/bonobo-git-server-install-note/</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://luchangjiu.github.io/2018/03/02/git/git-study-note/</loc>
     
     <lastmod>2023-03-05</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://luchangjiu.github.io/2021/07/19/java/Head_First_Design_Pattern/</loc>
-    
-    <lastmod>2023-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://luchangjiu.github.io/2018/03/03/git/bonobo-git-server-install-note/</loc>
     
     <lastmod>2023-03-05</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://luchangjiu.github.io/2020/06/22/windows/use-putty/</loc>
+    <loc>https://luchangjiu.github.io/2022/03/22/redis/redis-script-del/</loc>
     
     <lastmod>2022-04-13</lastmod>
     
@@ -218,7 +218,7 @@
   </url>
   
   <url>
-    <loc>https://luchangjiu.github.io/2022/03/22/redis/redis-script-del/</loc>
+    <loc>https://luchangjiu.github.io/2020/06/22/windows/use-putty/</loc>
     
     <lastmod>2022-04-13</lastmod>
     
@@ -272,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://luchangjiu.github.io/repository/index.html</loc>
+    <loc>https://luchangjiu.github.io/tags/index.html</loc>
     
     <lastmod>2022-04-13</lastmod>
     
@@ -281,7 +281,7 @@
   </url>
   
   <url>
-    <loc>https://luchangjiu.github.io/tags/index.html</loc>
+    <loc>https://luchangjiu.github.io/repository/index.html</loc>
     
     <lastmod>2022-04-13</lastmod>
     
@@ -306,14 +306,14 @@
   </url>
   
   <url>
-    <loc>https://luchangjiu.github.io/tags/C/</loc>
+    <loc>https://luchangjiu.github.io/tags/easyui/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://luchangjiu.github.io/tags/easyui/</loc>
+    <loc>https://luchangjiu.github.io/tags/C/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -341,13 +341,6 @@
   </url>
   
   <url>
-    <loc>https://luchangjiu.github.io/tags/oracle/</loc>
-    <lastmod>2023-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://luchangjiu.github.io/tags/office/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -355,7 +348,14 @@
   </url>
   
   <url>
-    <loc>https://luchangjiu.github.io/tags/windows/</loc>
+    <loc>https://luchangjiu.github.io/tags/oracle/</loc>
+    <lastmod>2023-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://luchangjiu.github.io/tags/vim/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -369,7 +369,7 @@
   </url>
   
   <url>
-    <loc>https://luchangjiu.github.io/tags/vim/</loc>
+    <loc>https://luchangjiu.github.io/tags/windows/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
