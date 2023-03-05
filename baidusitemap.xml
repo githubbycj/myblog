@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://luchangjiu.github.io/2018/03/03/git/bonobo-git-server-install-note/</loc>
+    <lastmod>2023-03-05</lastmod>
+  </url>
+  <url>
+    <loc>https://luchangjiu.github.io/2018/03/02/git/git-study-note/</loc>
+    <lastmod>2023-03-05</lastmod>
+  </url>
+  <url>
     <loc>https://luchangjiu.github.io/2022/04/14/other/kawayi-girl-img/</loc>
     <lastmod>2022-05-04</lastmod>
   </url>
@@ -57,15 +65,15 @@
     <lastmod>2022-04-13</lastmod>
   </url>
   <url>
-    <loc>https://luchangjiu.github.io/2020/05/30/hexo/delete-hexo-file/</loc>
-    <lastmod>2022-04-13</lastmod>
-  </url>
-  <url>
     <loc>https://luchangjiu.github.io/2020/05/30/hexo/create-hexo-file/</loc>
     <lastmod>2022-04-13</lastmod>
   </url>
   <url>
     <loc>https://luchangjiu.github.io/2023/03/05/hexo/hello-world/</loc>
+    <lastmod>2022-04-13</lastmod>
+  </url>
+  <url>
+    <loc>https://luchangjiu.github.io/2020/05/30/hexo/delete-hexo-file/</loc>
     <lastmod>2022-04-13</lastmod>
   </url>
   <url>
